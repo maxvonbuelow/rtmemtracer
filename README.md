@@ -3,6 +3,10 @@ Ray Tracing Memory Trace Extractor
 
 This is the implementation of the memory trace extraction tool for ray tracers. It can be used to visualized the memory and cache behavior of them.
 
+Demo
+------
+A demo of our visualization tool that uses memory traces from this tool can be found [here](https://riemann.dev/gpu-blame/).
+
 Build instructions
 ------
 First, make sure that you have the [NVBit](https://github.com/NVlabs/NVBit) binaries in nvbit/core. We used version 1.5.5 for our experiments.
