@@ -23,9 +23,20 @@ Most parts of our program are licensed under the GPLv3 license included as LICEN
 If you decide to use our code or code based on this project in your application, please make sure to cite our EGPGV paper:
 
 ```
-TODO
+@inproceedings{10.2312/pgv.20221061,
+	booktitle = {Eurographics Symposium on Parallel Graphics and Visualization},
+	editor = {Bujack, Roxana and Tierny, Julien and Sadlo, Filip},
+	title = {{Profiling and Visualizing GPU Memory Access and Cache Behavior of Ray Tracers}},
+	author = {Buelow, Max von and Riemann, Kai and Guthe, Stefan and Fellner, Dieter W.},
+	year = {2022},
+	month = {jun},
+	publisher = {The Eurographics Association},
+	issn = {1727-348X},
+	isbn = {978-3-03868-175-5},
+	doi = {10.2312/pgv.20221061},
+	location = {Rome, Italy}
+}
 ```
-A PDF reprint is available on the project page.
 
 
 Contact
